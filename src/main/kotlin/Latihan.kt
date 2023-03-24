@@ -19,4 +19,5 @@ fun main() {
     println(namaLengkap)
     println(alamat)
     println(umur)
+
 }
