@@ -10,5 +10,5 @@ fun main(){
     }
     for (index in sandang.indices ){
         println(index)
-    }
+    }git
 }
